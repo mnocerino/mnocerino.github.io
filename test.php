@@ -1,0 +1,5 @@
+<?
+
+$var = ¨test¨;
+echo var;
+?>
