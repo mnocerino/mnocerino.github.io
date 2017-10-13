@@ -32,10 +32,10 @@ body{
     border-radius: 25px;
     padding-left: 40px;
     display: block;
+    padding-right: 40px;
 }
 .text_image{
     float:right;
-    margin-right: 20px;
     border-radius: 8px;
     object-fit: contain;
     width: 20%;
