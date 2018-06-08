@@ -1,1 +1,16 @@
-
+connection=wired
+dhcp=yes
+browser=firefox
+homepage=http://help.unito.it
+hostname=2d2HelpDeskKiosk
+allow_icmp_protocol=yes
+session_idle=2
+primary_keyboard_layout=it
+disable_navigation_bar=yes
+kiosk_config=https://mnocerino.github.io/kiosk.txt
+scheduled_action=Monday-18:00 Tuesday-18:00 Wednesday-18:00 Thursday-18:00 Friday-18:00 Saturday-18:00 Sunday-18:00 action:halt
+rtc_wake=Monday-09:00 Tuesday-09:00 Wednesday-09:00 Thursday-09:00 Friday-09:00
+screensaver_idle=5
+whitelist=help.unito.it https://help.unito.it
+wake_on_lan=yes
+additional_components=uefi.zip
