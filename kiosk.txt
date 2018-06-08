@@ -14,3 +14,4 @@ screensaver_idle=5
 whitelist=help.unito.it https://help.unito.it unito.it/
 wake_on_lan=yes
 additional_components=uefi.zip
+disable_address_bar=yes
