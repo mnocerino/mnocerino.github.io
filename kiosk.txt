@@ -16,3 +16,4 @@ wake_on_lan=yes
 additional_components=uefi.zip
 disable_address_bar=yes
 screensaver_archive=https://mnocerino.github.io/wall.zip
+timezone=Europe/Rome
