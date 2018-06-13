@@ -15,5 +15,5 @@ whitelist=help.unito.it https://help.unito.it unito.it/
 wake_on_lan=yes
 additional_components=uefi.zip
 disable_address_bar=yes
-screensaver_archive=https://mnocerino.github.io/wall.zip
+screensaver_archive=https://mnocerino.github.io/wallpapers.zip
 timezone=Europe/Rome
